@@ -1,0 +1,1 @@
+{"catalog":[{"id":"coins","type":"Consumable","name":"coins","store_ids":{"AppleAppStore":"com.unity3d.unityiap.unityiapdemo.100goldcoins.8","GooglePlay":"com.eight.bit.avenue.amorcam.100coins.3"},"price":{"apple":0.99,"google":0.99},"payouts":[]}]}
