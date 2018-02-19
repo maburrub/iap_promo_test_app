@@ -3,6 +3,10 @@
  */
 typedef NS_ENUM(NSInteger, UnityAdsPurchasingEvent) {
     /**
+     *  An event that indicates the success or failure of a command sent to Purchasing.
+     */
+    kUnityAdsPurchasingEventPurchasingCommandCallback,
+    /**
      *  An event that indicates the version of the Purchasing asset package.
      */
     kUnityAdsPurchasingEventPurchasingVersion,
@@ -11,9 +15,9 @@ typedef NS_ENUM(NSInteger, UnityAdsPurchasingEvent) {
      */
     kUnityAdsPurchasingEventProductCatalog,
     /**
-     *  An event that indicates the success or failure of a command sent to Purchasing.
+     *  An event that indicates the success or failure of initializing Purchasing.
      */
-    kUnityAdsPurchasingEventPurchasingCommandCallback
+    kUnityAdsPurchasingEventInitializationResult
 };
 /**
  *  The `UADSPurchasingDelegate` protocol defines the required methods for receiving IAP promo-related messages from UnityAds.
@@ -38,6 +42,11 @@ NS_ASSUME_NONNULL_BEGIN
  *  @param eventString The string provided via the ad.
  */
 - (void)unityAdsPurchasingDidInitiatePurchasingCommand:(NSString *)eventString;
+/**
+ *  Called when `UnityAds` needs to initialize Purchasing.
+ *
+ */
+- (void)unityAdsPurchasingInitialize;
 @end
 
 /**
