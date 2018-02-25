@@ -1,4 +1,4 @@
-iOS
+Android
 SceneListBegin?
 Assets/promo_scn.unity
 SceneListEnd?

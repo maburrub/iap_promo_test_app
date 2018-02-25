@@ -457,7 +457,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 691de45f8e83f411b980539524db37c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  placementID: showPromoPlacement
+  placementID: testPlacement
 --- !u!114 &1047634407
 MonoBehaviour:
   m_ObjectHideFlags: 0
