@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{0C3D32A1-3A7D-04C7-961A-8E82C3FEB842}</ProjectGuid>
+    <ProjectGuid>{A2E832B7-1F4E-D4B7-6890-7567417314EF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
@@ -62,7 +62,7 @@
      <Compile Include="Assets\Plugins\UnityPurchasing\script\PurchasingCheck.cs" />
      <None Include="Assets\Plugins\UnityPurchasing\script\link.xml" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>/Users/mohammed/Projects/iap_promo_test_app/production/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>/Users/mohammed/Projects/iap_promo_test_app/production/201730p3/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity201730p3/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
@@ -149,37 +149,37 @@
  <HintPath>/Applications/Unity201730p3/PlaybackEngines/Facebook/UnityEditor.Facebook.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements.Editor">
- <HintPath>/Users/mohammed/Projects/iap_promo_test_app/production/Assets/UnityAds/UnityEngine.Advertisements.Editor.dll</HintPath>
+ <HintPath>/Users/mohammed/Projects/iap_promo_test_app/production/201730p3/Assets/UnityAds/UnityEngine.Advertisements.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Editor">
- <HintPath>/Users/mohammed/Projects/iap_promo_test_app/production/Assets/Plugins/UnityPurchasing/Bin/Editor.dll</HintPath>
+ <HintPath>/Users/mohammed/Projects/iap_promo_test_app/production/201730p3/Assets/Plugins/UnityPurchasing/Bin/Editor.dll</HintPath>
  </Reference>
  <Reference Include="Purchasing.Common">
- <HintPath>/Users/mohammed/Projects/iap_promo_test_app/production/Assets/Plugins/UnityPurchasing/Bin/Purchasing.Common.dll</HintPath>
+ <HintPath>/Users/mohammed/Projects/iap_promo_test_app/production/201730p3/Assets/Plugins/UnityPurchasing/Bin/Purchasing.Common.dll</HintPath>
  </Reference>
  <Reference Include="Stores">
- <HintPath>/Users/mohammed/Projects/iap_promo_test_app/production/Assets/Plugins/UnityPurchasing/Bin/Stores.dll</HintPath>
+ <HintPath>/Users/mohammed/Projects/iap_promo_test_app/production/201730p3/Assets/Plugins/UnityPurchasing/Bin/Stores.dll</HintPath>
  </Reference>
  <Reference Include="Apple">
- <HintPath>/Users/mohammed/Projects/iap_promo_test_app/production/Assets/Plugins/UnityPurchasing/Bin/Apple/Apple.dll</HintPath>
+ <HintPath>/Users/mohammed/Projects/iap_promo_test_app/production/201730p3/Assets/Plugins/UnityPurchasing/Bin/Apple/Apple.dll</HintPath>
  </Reference>
  <Reference Include="Security">
- <HintPath>/Users/mohammed/Projects/iap_promo_test_app/production/Assets/Plugins/UnityPurchasing/Bin/Security/live/Security.dll</HintPath>
+ <HintPath>/Users/mohammed/Projects/iap_promo_test_app/production/201730p3/Assets/Plugins/UnityPurchasing/Bin/Security/live/Security.dll</HintPath>
  </Reference>
  <Reference Include="FacebookStore">
- <HintPath>/Users/mohammed/Projects/iap_promo_test_app/production/Assets/Plugins/UnityPurchasing/Bin/Facebook/FacebookStore.dll</HintPath>
+ <HintPath>/Users/mohammed/Projects/iap_promo_test_app/production/201730p3/Assets/Plugins/UnityPurchasing/Bin/Facebook/FacebookStore.dll</HintPath>
  </Reference>
  <Reference Include="Tizen">
- <HintPath>/Users/mohammed/Projects/iap_promo_test_app/production/Assets/Plugins/UnityPurchasing/Bin/Tizen/Tizen.dll</HintPath>
+ <HintPath>/Users/mohammed/Projects/iap_promo_test_app/production/201730p3/Assets/Plugins/UnityPurchasing/Bin/Tizen/Tizen.dll</HintPath>
  </Reference>
  <Reference Include="winrt">
- <HintPath>/Users/mohammed/Projects/iap_promo_test_app/production/Assets/Plugins/UnityPurchasing/winrt/winrt.dll</HintPath>
+ <HintPath>/Users/mohammed/Projects/iap_promo_test_app/production/201730p3/Assets/Plugins/UnityPurchasing/winrt/winrt.dll</HintPath>
  </Reference>
  <Reference Include="ChannelPurchase">
- <HintPath>/Users/mohammed/Projects/iap_promo_test_app/production/Assets/Plugins/UnityChannel/ChannelPurchase.dll</HintPath>
+ <HintPath>/Users/mohammed/Projects/iap_promo_test_app/production/201730p3/Assets/Plugins/UnityChannel/ChannelPurchase.dll</HintPath>
  </Reference>
  <Reference Include="UnityStore">
- <HintPath>/Users/mohammed/Projects/iap_promo_test_app/production/Assets/Plugins/UnityChannel/UnityStore.dll</HintPath>
+ <HintPath>/Users/mohammed/Projects/iap_promo_test_app/production/201730p3/Assets/Plugins/UnityChannel/UnityStore.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>/Users/mohammed/Library/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/Editor/UnityEditor.Advertisements.dll</HintPath>
